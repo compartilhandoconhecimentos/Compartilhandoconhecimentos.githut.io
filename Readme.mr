@@ -1,4 +1,4 @@
-# Cursos Gratuitos
+# Cursos Gratuito
 
 **[Frontend](#frontend)**  
 **[Backend](#backend)**  
