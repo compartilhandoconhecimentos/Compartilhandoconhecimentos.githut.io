@@ -1,134 +1,40 @@
-# 📚 Cursos Gerais
+# Cursos Gratuitos
 
-Bem-vindo ao meu site de cursos.
-
-## 📂 Categorias
-
-### 💻 Informática
-- [Curso de HTML](https://exemplo.com/html)
-- [Curso de CSS](https://exemplo.com/css)
-- [Curso de JavaScript](https://exemplo.com/javascript)
-
-### 📖 Idiomas
-- [Curso de Inglês](https://exemplo.com/ingles)
-- [Curso de Espanhol](https://exemplo.com/espanhol)
-
-### 📱 Tecnologia
-- [Curso de Android](https://exemplo.com/android)
-- [Curso de GitHub](https://exemplo.com/github)
+**[Frontend](#frontend)**  
+**[Backend](#backend)**  
+**[Frameworks de PHP](#frameworks-de-php)**  
+**[CMS](#cms)**  
+**[Mobile](#mobile)**  
+**[Servidores](#servidores)**  
+**[Edição de imagem e vídeo](#ediÇÃo-de-imagem-e-vÍdeo)**  
+**[Modelagem 3d](#modelagem-3d)**  
+**[Desenvolvimento de games](#desenvolvimento-de-games)**  
 
 ---
 
-## ⭐ Favoritos
+## FRONTEND 
 
-- HTML
-- CSS
-- GitHub
-- Android
+*Curso Completo de HTML5 (42 aulas)*
+- https://goo.gl/SD4p4g
 
----
+*Curso Aprenda HTML em 1 hora (22 aulas)*
+- https://goo.gl/1kfBCZ
 
-## 📞 Contato
+*Curso completo de CSS3 (22 aulas)*
+- https://goo.gl/ebjzVG
 
-Obrigado pela visita!Que meu trabalho seja fecundo, com o orvalho do teu amor e a força da tua bênção.
+*Curso Básico de CSS (12 aulas)*
+- https://goo.gl/s98HNb
 
-Que hoje à noite possa estar Contigo, como alguém que reencontra um amigo, para poder dar graças pelo meu dia.
+*Curso de Bootstrap (16 aulas)*
+- https://goo.gl/xFDOxT
 
-Obrigada por mais este dia, Senhor!
+*Curso de Less (6 aulas)*
+- https://goo.gl/Y5UkLQ
 
-Louvado seja!
+*Curso de Sass (18 aulas)(inglês)*
+- https://goo.gl/DzRv1e
 
----
-
-🙏 QUARTA-FEIRA
-
-Senhor, nesta quarta-feira, venho pedir-Te saúde, força, paz e sabedoria.
-
-Quero olhar hoje o mundo com olhos cheios de amor, ser paciente, compreensivo, manso e prudente.
-
-Fecha os meus ouvidos a toda a calúnia.
-
-Guarda a minha língua de toda a maldade.
-
-Que só bênçãos encham o meu espírito.
-
----
-
-🙏 QUINTA-FEIRA
-
-Senhor, nesta quinta dá-me a esperança para vencer minhas ilusões.
-
-Planta em meu coração a semente do amor.
-
-Ajuda-me a fazer feliz o maior número de pessoas possível.
-
-Dá-me o sabor de saber perdoar e afasta de mim o desejo de vingança.
-
-Enche meu coração com a divina fé para sempre louvar o vosso nome.
-
-Amém.
-
----
-
-🙏 SEXTA-FEIRA
-
-Senhor, venho a Ti nesta sexta entregar em tuas mãos todos os projetos que tenho para hoje.
-
-Livra-me de toda intenção ruim contra mim.
-
-Dá-me forças para trabalhar com alegria.
-
-Que eu possa ser instrumento da tua paz.
-
-Em nome de Jesus, Amém.
-
----
-
-🙏 SÁBADO
-
-Bom Dia, amado Deus!
-
-Obrigado por me conceder a graça de abrir meus olhos neste sábado.
-
-Guia-me pelas veredas da vida.
-
-Prepara-me um final de semana abençoado, cheio de paz, harmonia, serenidade e amor.
-
-Amém.
-
----
-
-🙏 DOMINGO
-
-Hoje inicia-se mais uma semana.
-
-Tenho o prazer de entregá-la em Tuas mãos, pois sei que só o Senhor sabe de todas as coisas.
-
-Guia-me, Senhor.
-
-Ilumina meus passos, abençoa minhas escolhas e livra-me de todo o mal.
-
-Amém.
-
----
-
-🙏 ORAÇÃO PARA QUALQUER DIA
-
-Que neste dia Deus me conceda um novo ânimo.
-
-Onde quer que eu vá, Deus me conduza.
-
-Quando a dúvida chegar, Deus me dê esperança.
-
-Quando a dor chegar ao coração, Deus me conforte.
-
-Quando os horizontes escurecerem, Deus me ilumine.
-
-Que em todos os dias da vida Deus continue comigo.
-
-Que a cada amanhecer Deus me abençoe e me guarde.
-
-Amém.
 *Curso de CSS3 com Sass e Compass (9 aulas)*
 - https://goo.gl/bAO0hE
 
